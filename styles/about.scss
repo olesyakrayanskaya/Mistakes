@@ -1,0 +1,14 @@
+@use './vars.scss';
+
+.about {
+    display: flex;
+
+    &__title {
+        text-decoration: underline;
+        color: $main-color;
+    }
+
+    &__text {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}

@@ -1,0 +1,14 @@
+.container {
+  max-width: 1440px;
+  padding: 32px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  list-style: none;
+}
+.list__item {
+  color: #494040;
+}/*# sourceMappingURL=styles.css.map */
